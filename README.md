@@ -1,7 +1,7 @@
 # LUMI Beauty — Website bán mỹ phẩm (React + Vite)
 
 Giao diện cửa hàng mỹ phẩm trực tuyến **LUMI Beauty**, phong cách biên tập (editorial) tông hồng pastel, viết hoàn toàn bằng tiếng Việt. Trang gồm Flash Sale, danh mục 46 sản phẩm có trang chi tiết và đánh giá sao, giỏ hàng, tài khoản khách hàng (lịch sử mua hàng, địa chỉ, ngân hàng liên kết).
-
+ https://hanny2005.github.io/-DEMO_lumi-beauty_Fontend-React-/
 > **Trạng thái: bản demo giao diện (frontend).** Chưa có máy chủ. Giỏ hàng, tài khoản, đơn hàng và đánh giá đang lưu trong `localStorage` của trình duyệt. Xem mục [Trước khi đưa lên thật](#trước-khi-đưa-lên-thật).
 
 ![Trang chủ](docs/screenshots/trang-chu.jpg)
